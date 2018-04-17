@@ -1,0 +1,13 @@
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\obj\Debug\CompaniesEF.csprojResolveAssemblyReference.cache
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\obj\Debug\CompaniesEF.csproj.CoreCompileInputs.cache
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\CompaniesEF.exe.config
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\CompaniesEF.exe
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\CompaniesEF.pdb
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\EntityFramework.dll
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\EntityFramework.xml
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\obj\Debug\CompaniesEF.csproj.CopyComplete
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\obj\Debug\CompaniesEF.exe
+C:\Users\Мухамедьян\source\repos\CompaniesEF\CompaniesEF\obj\Debug\CompaniesEF.pdb
